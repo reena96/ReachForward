@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0048fe93c7ade484fca91061ac7f8266/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/489051601d82ef53d6000344334a6810/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/72f2845db36cc09a27dc8395a936224b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/41c06b503a5495bd5a5bb495a56ba5de/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d8cdb22950af0bb91b305278f23bf2d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6d53e4fae74c3d22647bd3d7360c5712/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/10c7bd532f1bb45e5dd1d92d6880627b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ded36ebadd820159494860d77926006b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5d9cddc8202e97c1ffaa8aeb7a9ba6fd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c5ed4cc8090d42ca5b9e23149e5eae09/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9751da80bed072ec1bd26155964c4a89/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/0a8c1a29423f276e8c9214cc06e32aeb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/9a6be309fec6948b78cb486962db371d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed8395f343c428cd55c60499f04323083f4ef0db">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reenamaryputhota/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/7a53ede2b1c0ea963d47e6946b3b5950/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc421b0511f4e492d097c84702b2a00f101fe08a">
+        <dex dex="/Users/reenamaryputhota/Desktop/ReachForward/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+
+</items>

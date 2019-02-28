@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313834778076",
+    "firebase_url": "https://reachforward-3887b.firebaseio.com",
+    "project_id": "reachforward-3887b",
+    "storage_bucket": "reachforward-3887b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313834778076:android:9ea44fc039d28c73",
+        "android_client_info": {
+          "package_name": "com.example.reenamaryputhota.reachforward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313834778076-uusv85qg6g5e3nmg3noqtjvm34548k0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reenamaryputhota.reachforward",
+            "certificate_hash": "9d140274f7c7a433aa476356071b9a566dbae0d1"
+          }
+        },
+        {
+          "client_id": "313834778076-21u7e2vk14apkt8bds0fd01037mnfbbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByGfGKdcJCDSQzIURNgDzCYcG0AyKP11c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313834778076-21u7e2vk14apkt8bds0fd01037mnfbbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
